@@ -1,16 +1,21 @@
 ---
 permalink: /
-title: "About Me"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a first year master student from [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/). My research interest includes machine learning, edge AI systems, and tiny machine learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Qihua Zhou](http://qihuazhou.com/) of PEILab Lab from [College of Computer Science and Software Engineering]([https://cs.pku.edu.cn/](https://csse.szu.edu.cn/)), Shenzhen University. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yongzhi She's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](2455698722@163.com) / [Github](https://github.com/yongzhishe) / [Gitee](https://gitee.com/a2455698722)
+
+Education
+======
+**B.Eng. in Communication Engineering (Computer Communication Network), 2021-2025**
+Wuyi University
