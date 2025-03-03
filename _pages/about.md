@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Qihua Zhou](http://qihuazhou.com/) o
 
 You can find my CV here: [Yongzhi She's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](18922005337@163.com) / [Github](https://github.com/yongzhishe) / [Gitee](https://gitee.com/a2455698722)
+[Github](https://github.com/yongzhishe) / [Gitee](https://gitee.com/a2455698722)
 
 Education
 ======
