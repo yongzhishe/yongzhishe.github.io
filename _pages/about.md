@@ -21,4 +21,4 @@ Education
 
 Wuyi University
 
-**Honors and Scholarships: [China National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/202412/t20241230_1172663.html)**
+*Honors and Scholarships: [China National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/202412/t20241230_1172663.html)*
