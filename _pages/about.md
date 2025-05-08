@@ -19,5 +19,6 @@ Education
 ======
 **B.Eng. in Communication Engineering (Computer Communication Network), 2021-2025**
 
-Wuyi University 
+Wuyi University
+
 **Honors and Scholarships: [China National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/202412/t20241230_1172663.html)**
